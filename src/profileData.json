@@ -4,7 +4,7 @@
 		"middleName": "Micheal",
 		"lastName": "Afuwape",
 		"phoneNumber": "+2348163891244",
-		"bio": "I am a DevOps Engineer and also React Native Engineer. My tech stack includes JavaScript, Go, Python. Go and Python for server side and scripting and i use Javascript to build cross mobile platform application (React Native). I have also worked with Ruby and Java. I am an MSP (Microsoft Student Partner), A GitHub Campus Expert at my institute where i am responsible for building campus community. I am also the lead Ambassador for Ingressive Campus Ambassador, and the lead orhanizer for HackerEarth and the co-founder of AnorakS in University of Ibadan",
+		"bio": "I am a DevOps Engineer and also React Native Engineer. My tech stack includes JavaScript, Go, Python. Go and Python for server side and scripting and i use Javascript to build cross mobile platform application (React Native). I have also worked with Ruby and Java. I am an MSP (Microsoft Student Partner), a GitHub Campus Expert at my institute where i am responsible for building campus community. I am also the lead Ambassador for Ingressive, and the lead organizer for HackerEarth and the co-founder of AnorakS in University of Ibadan",
     	"email": "adefemi171@gmail.com",
     	"linkedin": "https://www.linkedin.com/in/afuwape-adefemi-micheal/",
 		"github": "https://github.com/adefemi171/",
@@ -163,10 +163,10 @@
 		"paragraphTwo": "When forced indoors, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the development world."
 	},
 	"awards": [{
-			"awardDetail": "Andela Learning Community Award"
+			"awardDetail": "Andela Learning Community Award 2018"
 		},
 		{
-			"awardDetail": "Internet Network Society (Network Services and Monitoring)"
+			"awardDetail": "Internet Network Society (Network Services and Monitoring) 2018"
 		},
 		{
 			"awardDetail": "Won CodeFest Hackathon 2018(Team Gegneroc)."
