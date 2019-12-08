@@ -1,42 +1,88 @@
 {
 	"landing": {
-		"firstName": "Anupam",
-		"lastName": "Dagar",
-		"phoneNumber": "+91-0123456789",
-		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
-    "email": "dagaranupam@gmail.com",
-    "linkedin": "https://linkedin.com/in/anupamdagar",
-		"github": "https://github.com/Anupam-dagar"
+		"firstName": "Adefemi",
+		"middleName": "Micheal",
+		"lastName": "Afuwape",
+		"phoneNumber": "+2348163891244",
+		"bio": "I am a DevOps Engineer and also React Native Engineer. My tech stack includes JavaScript, Go, Python. Go and Python for server side and scripting and i use Javascript to build cross mobile platform application (React Native). I have also worked with Ruby and Java. I am an MSP (Microsoft Student Partner), A GitHub Campus Expert at my institute where i am responsible for building campus community. I am also the lead Ambassador for Ingressive Campus Ambassador, and the lead orhanizer for HackerEarth and the co-founder of AnorakS in University of Ibadan",
+    	"email": "adefemi171@gmail.com",
+    	"linkedin": "https://www.linkedin.com/in/afuwape-adefemi-micheal/",
+		"github": "https://github.com/adefemi171/",
+		"medium": "https://medium.com/@adefemi171",
+		"twitter": "https://twitter.com/daycrawller"
 	},
 	"experience": [
+		{
+				"position": "Remote Junior DevOps Engineer",
+				"organization": "AquaTribe",
+				"aboutWork": "",
+				"fromDate": "February 2019",
+				"toDate": "Present"
+		},
+		{
+				"position": "CowryWise Campus Anbassador",
+				"organization": "CowryWise",
+				"aboutWork": "Responsible for building the on campus community with the support of CowryWise.",
+				"fromDate": "October 2019",
+				"toDate": "Present"
+		},
+		{
+				"position": "Microsoft Student Partner",
+				"organization": "Microsoft",
+				"aboutWork": "Responsible for building the on campus community with the support of Microsoft.",
+				"fromDate": "September 2019",
+				"toDate": "Present"
+		},
+		{
+				"position": "3D Africa Ambassador",
+				"organization": "Youth For Tech",
+				"aboutWork": "Responsible for building the on campus community with the support of Youth For Tech.",
+				"fromDate": "August 2019",
+				"toDate": "Present"
+		},
 		{
 				"position": "GitHub Campus Expert",
 				"organization": "GitHub",
 				"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
-				"fromDate": "August 2018",
+				"fromDate": "June 2019",
 				"toDate": "Present"
 		},
 		{
-			"position": "Opensource Developer Intern",
-			"organization": "Fossasia",
-			"aboutWork": "Contributing to Fossasia's open event server and frontend as an intern. Resolved numerous bugs and added new features to the eventyay platform.",
-			"fromDate": "June 2019",
+				"position": "Student Ambassador",
+				"organization": "CodeLN",
+				"aboutWork": "Responsible for building the on campus community with the support of CodeLN.",
+				"fromDate": "May 2019",
+				"toDate": "Present"
+		},
+		{
+				"position": "Lead Campus Ambassador",
+				"organization": "Ingressive",
+				"aboutWork": "Responsible for training new ambassadors, distributing swags and sharing basic information.",
+				"fromDate": "January 2019",
+				"toDate": "Present"
+		},
+		{
+			"position": "Remote Software Engineer Intern",
+			"organization": "CHANGEMAKER IN SLUMS (CIS)",
+			"aboutWork": "Designed and implemented MVP for SMS keycode system Using Twilio REST API and Python Language ",
+			"fromDate": "January 2019",
+			"toDate": "June 2019"
+		}
+	],
+	"education": [
+		{
+			"university": "University of Ibadan, Oyo State, Nigeria",
+			"degree": "Bachelor of Science (Computer Science)",
+			"gpa": "2.70/4.00",
+			"fromDate": "April 2018",
 			"toDate": "Present"
 		},
 		{
-			"position": "Software Developer Intern",
-			"organization": "Hasura",
-			"aboutWork": "Worked on Hasura's GraphQL engine and added new features in it.",
-			"fromDate": "December 2018",
-			"toDate": "January 2019"
-		}
-	],
-	"education": [{
-			"university": "Indian Institute of Information Technology Allahabad",
-			"degree": "Bachelor of Technology",
-			"gpa": "12.34",
-			"fromDate": "August 2016",
-			"toDate": "Present"
+			"Polytechnic": "Federal College of Wildlife Management, Niger State, Nigeria",
+			"degree": "National Diploma (Computer Science)",
+			"gpa": "3.77/4.00",
+			"fromDate": "September 2014",
+			"toDate": "August 2016"
 		}
 	],
 	"skills": [{
@@ -49,10 +95,13 @@
 			"name": "Javascript"
 		},
 		{
-			"name": "React"
+			"name": "Vue.js"
 		},
 		{
-			"name": "Nodejs"
+			"name": "React Native"
+		},
+		{
+			"name": "Go"
 		},
 		{
 			"name": "Python"
@@ -61,21 +110,66 @@
 			"name": "Django"
 		},
 		{
-			"name": "Ember"
+			"name": "Java"
+		},
+		{
+			"name": "CMS (WordPress, WagTail)"
+		},
+		{
+			"name": "SQL"
+		},
+		{
+			"name": "MongDB"
+		},
+		{
+			"name": "Git"
+		},
+		{
+			"name": "Linux"
+		},
+		{
+			"name": "Docker"
+		},
+		{
+			"name": "Kubernetes"
+		},
+		{
+			"name": "Ansible"
+		},
+		{
+			"name": "Terraform"
+		},
+		{
+			"name": "AWS"
+		},
+		{
+			"name": "GCP"
+		},
+		{
+			"name": "Gitlab"
+		},
+		{
+			"name": "Jenkins"
+		},
+		{
+			"name": "CI/CD Tools"
+		},
+		{
+			"name": "API Design Knowledge"
 		}
 	],
 	"interests": {
-		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
-		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+		"paragraphOne": "Apart from writing codes or script, i enjoy watching movies and listening to music",
+		"paragraphTwo": "When forced indoors, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the development world."
 	},
 	"awards": [{
-			"awardDetail": "Hack 36 3rd prize winner."
+			"awardDetail": "Andela Learning Community Award"
 		},
 		{
-			"awardDetail": "Mentor OpenCode'19"
+			"awardDetail": "Internet Network Society (Network Services and Monitoring)"
 		},
 		{
-			"awardDetail": "Started North India's First Student Design and Developer Conference."
+			"awardDetail": "Won CodeFest Hackathon 2018(Team Gegneroc)."
 		}
 	]
 }
