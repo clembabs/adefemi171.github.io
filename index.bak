@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="keywords" content="Adefemi .A. Micheal">
+  <meta name="keywords" content="Adefemi .A. Micheal"">
   <meta name="description" content="I am a DevOps Engineer and also SWE that deals majorly with Back-End using Go and Python.">
   <meta name="author" content="Adefemi .A. Micheal">
 
@@ -34,14 +34,11 @@
         <h2 class="text-white-50 mx-auto mt-2 mb-5">
           Hello, I’m Adefemi. A Self Motivated, Resourceful DevOps Engineer  and SWE that deals majorly with Back-End using Go and Python.
         </h2>
-        <a href="mailto:adefemi171@gmail.com" class="btn btn-primary js-scroll-trigger">Send a Message</a>
+        <a href="mailto:adefemi171@gmail.com" class="btn btn-primary js-scroll-trigger">Send Message</a>
       </div>
     </div>
   </header>
 
-  <!-- <section>
-
-  </section> -->
   <!-- Contact Section -->
   <section class="contact-section bg-black">
     <div class="container">
@@ -52,7 +49,7 @@
           <div class="card py-4 h-100">
             <div class="card-body text-center">
               <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-              <h4 class="text-uppercase m-0">Address</h4>
+              <h4 class="text-uppercase m-0">Home Address</h4>
               <hr class="my-4">
               <div class="small text-black-50">Lagos, Nigeria.</div>
             </div>
@@ -67,6 +64,7 @@
               <hr class="my-4">
               <div class="small text-black-50">
                 <a href="#">adefemi171@gmail.com</a>
+              </div>
             </div>
           </div>
         </div>
@@ -74,31 +72,30 @@
         <div class="col-md-4 mb-3 mb-md-0">
           <div class="card py-4 h-100">
             <div class="card-body text-center">
-              <i class="fas fa-mobile-alt text-primary mb-2"></i>
+              <!-- <i class="fas fa-mobile-alt text-primary mb-2"></i> -->
+              <i class="fas fa-cloud-download-alt text-primary mb-2"></i>
               <h4 class="text-uppercase m-0">Resume</h4>
               <hr class="my-4">
               <div class="small text-black-50">
-                <a href="https://drive.google.com/open?id=1NGYba6QV_dosY2jtfTh1cMOiY0z7o2XQ" class="btn btn-primary js-scroll-trigger">Download Resume</a>
+                <a href="https://drive.google.com/open?id=1Ch0hExNYWSO4vXQ3k3wNCmRluhq_TYej">Resume</a>
               </div>
             </div>
           </div>
         </div>
-
-
       </div>
 
       <div class="social d-flex justify-content-center">
         <a href="https://github.com/adefemi171" class="mx-2">
           <i class="fab fa-github"></i>
         </a>
-        <a href="https://twitter.com/daycrawller" class="mx-2">
-          <i class="fab fa-twitter"></i>
+        <a href="https://medium.com/@adefemi171" class="mx-2">
+          <i class="fab fa-medium"></i>
         </a>
         <a href="https://www.linkedin.com/in/afuwape-adefemi-micheal/" class="mx-2">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="https://medium.com/@adefemi171" class="mx-2">
-          <i class="fab fa-medium"></i>
+        <a href="https://twitter.com/daycrawller/" class="mx-2">
+          <i class="fab fa-twitter"></i>
         </a>
       </div>
 
